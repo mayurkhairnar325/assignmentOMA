@@ -1,9 +1,9 @@
-## assignmentOMA
+# assignmentOMA
 
 
 
-# I have created the restaurant ordering application where user can sign and login into an ordering system.
-# Once user log’s in, user can use jwt to access the ordering system like user can place or create an order, retrieve order with the help of order id. User can retrieve all the orders as well as user can modify or delete the respective order.
+## I have created the restaurant ordering application where user can sign and login into an ordering system.
+## Once user log’s in, user can use jwt to access the ordering system like user can place or create an order, retrieve order with the help of order id. User can retrieve all the orders as well as user can modify or delete the respective order.
 
 1.	The whole idea behind the order application is First, user will sign-up or sing in with their name, password, email , avatar and  phone number.
 curl --location --request POST 'localhost:8000/users/signup' \
